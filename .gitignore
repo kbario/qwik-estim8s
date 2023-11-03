@@ -39,3 +39,9 @@ lerna-debug.log*
 # Yarn
 .yarn/*
 !.yarn/releases
+
+estim8s-firebase-adminsdk-ykpqv-bd56f73515.json
+
+# Firebase
+functions/server
+functions/node_modules
